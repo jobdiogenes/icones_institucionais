@@ -6,6 +6,11 @@
 
 Os ícones estão disponíveis individualmente em formato SVG e PNG, coloridos e Preto e Branco. e Tambem disponíveis em forma de fontes, para melhor uso em sites.
 
+# Deseja algum ícone ou quer contribuir?
+Se deseja algum ícone e não tem habilidades pra desenho faça a solicitação [aqui](https://github.com/jobdiogenes/icones_institucionais/issues). 
+Se tem habilidades com desenho, você pode enviar um arquivo formato SVG diretamente no sistema de solicitação [aqui](https://github.com/jobdiogenes/icones_institucionais/issues). Ou caso saba usar o GitHub, você pode fazer um Fork deste repositório, colocar o arquivo na pasta correta e solicitar um Merge / Pull Request para esse repositório.
+- Caso desejar contribuir os desenhos devem conter pelo menos 3 tipos (bw, round, wired) vetorias puros sem inclusão de imagens ou achuras em bitmap. Além disso devem ser feitos de forma mais limpa possível, com o mínimo de objetos. Isso é fundamental para que os ícones possam ser adcionados depois as fontes de ícones (ttf,woff,eot) e carreguem rápido.   
+
 # Licença
 
 - Os Ícones Intitucionais são licenciados pela  SIL OFL 1.1:
