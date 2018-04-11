@@ -18,3 +18,4 @@ Os ícones estão disponíveis individualmente em formato SVG e PNG, coloridos e
 # Autor
 
 Job Diógenes Ribeiro Borges
+GitHub - [https://github.com/jobdiogenes](https://github.com/jobdiogenes)
