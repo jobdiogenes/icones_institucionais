@@ -5,3 +5,5 @@ Os nomes são definidos como sigla/nome insituição hifen tipo do desenho, send
 - square-rd = desenho dentro de um retângulo com bordas arrendondas
 - square = desenho dentro de um retângulo
 - wired = desenho só com linhas e sem preenchimento 
+- color = desenho clorido
+- gray = desenho com tons de cinza
