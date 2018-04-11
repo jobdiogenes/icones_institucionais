@@ -7,3 +7,4 @@ Os nomes são definidos como sigla/nome insituição hifen tipo do desenho, send
 - wired = desenho só com linhas e sem preenchimento 
 - color = desenho clorido
 - gray = desenho com tons de cinza
+- (nome da cor básica em inglês de acordo com o padrão de nomes de [cores w3c CSS](https://www.w3schools.com/colors/colors_names.asp), ex: black, blue, green 
